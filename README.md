@@ -4,6 +4,8 @@ I'm an independent Developer and DevOps from Israel
 
 ### My recent / on-going open source work
 
+* Leading development of a serverless platform for Kamatera
+  * https://github.com/cloudwebmanage
 * Developing infrastructure automation drivers and tools for Kamatera (a cloud infrastructure provider). Including drivers for Terraform, LibCloud, Salt, Ansible, Docker Machine, as well as a custom CLI:
   * https://github.com/kamatera
   * https://github.com/cloudwm/cloudcli
