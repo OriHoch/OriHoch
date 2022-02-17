@@ -25,7 +25,7 @@ I'm an independent Developer and DevOps from Israel
 
 ### My close source work
 
-In the past 3.5 years I've been working as an independenct developer for various clients, providing the following services:
+I'm working as an independenct developer for various clients, providing the following services:
 
 * DevOps - Designing and implementing solutions for continuous integration / deployment, optimizing infrastructure and development workflows.
 * Systems architecture - researching and designing solutions for system architecture and best practices.
