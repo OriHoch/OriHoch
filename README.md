@@ -4,6 +4,8 @@ I'm an independent Developer and DevOps from Israel
 
 ### My recent / on-going open source work
 
+* Leading development of a big data platform aggregating real-time public transportation data
+  * https://github.com/hasadna/open-bus-pipelines/blob/main/README.md
 * Leading development of a serverless platform for Kamatera
   * https://github.com/cloudwebmanage
 * Developing infrastructure automation drivers and tools for Kamatera (a cloud infrastructure provider). Including drivers for Terraform, LibCloud, Salt, Ansible, Docker Machine, as well as a custom CLI:
