@@ -2,10 +2,16 @@
 
 I'm an independent Developer and DevOps from Israel
 
-### My recent / on-going open source work
+### My recent and on-going open source / public work
 
 * Leading development of a big data platform aggregating real-time public transportation data
   * https://github.com/hasadna/open-bus-pipelines/blob/main/README.md
+* Writing articles for Incredibuild
+  * [Integrating Incredibuild with GitHub Actions](https://community.incredibuild.com/t/integrating-ib-with-github-actions/324)
+  * [Speed up your builds by parallelizing](https://www.incredibuild.com/blog/speed-up-your-builds-by-parallelizing)
+  * [Parallel CI - Comparing CI systems parallelization](https://www.incredibuild.com/blog/parallel-ci-comparing-ci-systems-parallelization)
+  * Using Kubernetes for CI build jobs and generic processing tasks: [part 1](https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part1) [part 2](https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part-2)
+  * [additional articles](https://www.incredibuild.com/blog/author/ori-hoch)
 * Leading development of a serverless platform for Kamatera
   * https://github.com/cloudwebmanage
 * Developing infrastructure automation drivers and tools for Kamatera (a cloud infrastructure provider). Including drivers for Terraform, LibCloud, Salt, Ansible, Docker Machine, as well as a custom CLI:
