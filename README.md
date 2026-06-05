@@ -101,11 +101,12 @@ Selected work:
 I write and build around CI/CD, build acceleration, and Kubernetes-based processing.
 
 Articles:
-- [Integrating Incredibuild with GitHub Actions](https://community.incredibuild.com/t/integrating-ib-with-github-actions/324)
-- [Speed up your builds by parallelizing](https://www.incredibuild.com/blog/speed-up-your-builds-by-parallelizing)
-- [Parallel CI - Comparing CI systems parallelization](https://www.incredibuild.com/blog/parallel-ci-comparing-ci-systems-parallelization)
-- [Using Kubernetes for CI build jobs and generic processing tasks - part 1](https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part1)
-- [Using Kubernetes for CI build jobs and generic processing tasks - part 2](https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part-2)
+
+- [Integrating Incredibuild with GitHub Actions](https://web.archive.org/web/20220926033325/https://community.incredibuild.com/t/integrating-ib-with-github-actions/324)
+- [Speed up Your Builds by Parallelizing](https://web.archive.org/web/20231203191629/https://www.incredibuild.com/blog/speed-up-your-builds-by-parallelizing)
+- [Parallel CI: Comparing CI Systems Parallelization](https://web.archive.org/web/20230924230745/https://www.incredibuild.com/blog/parallel-ci-comparing-ci-systems-parallelization)
+- [Using Kubernetes for CI Build Jobs and Generic Processing Tasks - part 1](https://web.archive.org/web/20230925002119/https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part1)
+- [Using Kubernetes for CI Build Jobs and Generic Processing Tasks - part 2](https://web.archive.org/web/20230925000353/https://www.incredibuild.com/blog/using-kubernetes-for-ci-build-jobs-and-generic-processing-tasks-part-2)
 
 ---
 
